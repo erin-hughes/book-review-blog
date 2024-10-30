@@ -34,8 +34,6 @@ jobs:
           static_site_generator: next
 
       - name: Build application
-        env:
-          NEXT_PUBLIC_BASE_PATH: /book-review-blog
         run: yarn build
 
       - name: List files after build
