@@ -25,15 +25,14 @@ jobs:
       - name: Install dependencies
         run: yarn --frozen-lockfile
 
-      - name: Build application
-        run: yarn build
-
       - name: Setup Pages
         uses: actions/configure-pages@v4
         with:
           static_site_generator: next
 
-      - name: Build with Next
+      - name: Build application
+        env:
+          NEXT_PUBLIC_BASE_PATH: /book-review-blog
         run: yarn build
 
       - name: Upload artifact
