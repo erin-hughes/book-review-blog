@@ -1,0 +1,203 @@
+{
+  "extends": "stylelint-config-recommended-scss",
+  "plugins": ["stylelint-order", "stylelint-scss"],
+  "rules": {
+    "max-nesting-depth": 4,
+    "selector-pseudo-class-no-unknown": null,
+    "scss/at-else-if-parentheses-space-before": "always",
+    "scss/at-else-empty-line-before": "never",
+    "scss/at-else-closing-brace-newline-after": "always-last-in-chain",
+
+    "scss/at-function-parentheses-space-before": "always",
+
+    "scss/at-if-closing-brace-newline-after": "always-last-in-chain",
+
+    "scss/at-import-no-partial-leading-underscore": true,
+    "scss/at-import-partial-extension-blacklist": ["scss"],
+
+    "scss/at-mixin-parentheses-space-before": "always",
+    "scss/at-mixin-argumentless-call-parentheses": "never",
+
+    "scss/at-rule-no-unknown": true,
+
+    "scss/dollar-variable-colon-space-after": "always",
+    "scss/dollar-variable-colon-space-before": "never",
+    "scss/declaration-nested-properties": "never",
+
+    "scss/media-feature-value-dollar-variable": "always",
+
+    "scss/operator-no-newline-after": true,
+    "scss/operator-no-newline-before": true,
+    "scss/operator-no-unspaced": true,
+
+    "scss/selector-no-redundant-nesting-selector": true,
+
+    "order/order": [
+      "custom-properties",
+      "dollar-variables",
+      {
+        "type": "at-rule",
+        "name": "include"
+      },
+      {
+        "type": "at-rule",
+        "name": "include",
+        "hasBlock": true
+      },
+      "declarations",
+      "at-rules",
+      "rules"
+    ],
+
+    "order/properties-order": [
+      "content",
+      "display",
+      "box-sizing",
+      "position",
+      "top",
+      "right",
+      "bottom",
+      "left",
+
+      "flex",
+      "flex-basis",
+      "flex-direction",
+      "flex-flow",
+      "flex-grow",
+      "flex-shrink",
+      "flex-wrap",
+      "align-content",
+      "align-items",
+      "align-self",
+      "justify-content",
+      "order",
+
+      "width",
+      "min-width",
+      "max-width",
+
+      "height",
+      "min-height",
+      "max-height",
+
+      "margin",
+      "margin-top",
+      "margin-right",
+      "margin-bottom",
+      "margin-left",
+
+      "padding",
+      "padding-top",
+      "padding-right",
+      "padding-bottom",
+      "padding-left",
+
+      "border",
+      "border-top",
+      "border-right",
+      "border-bottom",
+      "border-left",
+      "border-width",
+      "border-top-width",
+      "border-right-width",
+      "border-bottom-width",
+      "border-left-width",
+
+      "border-style",
+      "border-top-style",
+      "border-right-style",
+      "border-bottom-style",
+      "border-left-style",
+
+      "border-radius",
+      "border-top-left-radius",
+      "border-top-right-radius",
+      "border-bottom-left-radius",
+      "border-bottom-right-radius",
+
+      "border-color",
+      "border-top-color",
+      "border-right-color",
+      "border-bottom-color",
+      "border-left-color",
+
+      "outline",
+      "outline-color",
+      "outline-offset",
+      "outline-style",
+      "outline-width",
+
+      "background",
+      "background-attachment",
+      "background-clip",
+      "background-color",
+      "background-image",
+      "background-repeat",
+      "background-position",
+      "background-size",
+      "color",
+
+      "float",
+      "clear",
+      "clip",
+
+      "columns",
+      "column-gap",
+      "column-fill",
+      "column-rule",
+      "column-span",
+      "column-count",
+      "column-width",
+
+      "transform",
+      "transform-box",
+      "transform-origin",
+      "transform-style",
+
+      "transition",
+      "transition-delay",
+      "transition-duration",
+      "transition-property",
+      "transition-timing-function",
+
+      "font",
+      "font-family",
+      "font-size",
+      "font-smoothing",
+      "font-style",
+      "font-variant",
+      "font-weight",
+
+      "letter-spacing",
+      "line-height",
+      "list-style",
+
+      "text-align",
+      "text-decoration",
+      "text-indent",
+      "text-overflow",
+      "text-rendering",
+      "text-shadow",
+      "text-transform",
+      "text-wrap",
+
+      "white-space",
+      "word-spacing",
+
+      "border-collapse",
+      "border-spacing",
+      "box-shadow",
+      "caption-side",
+      "cursor",
+      "empty-cells",
+      "opacity",
+      "overflow",
+      "quotes",
+      "speak",
+      "table-layout",
+      "vertical-align",
+      "visibility",
+      "z-index"
+    ]
+  }
+}

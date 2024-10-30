@@ -1,0 +1,6 @@
+{
+  "*.{js,jsx,mjs}": ["yarn lint:js"],
+  "*.{ts,tsx}": ["yarn lint:ts"],
+  "*.scss": ["yarn lint:scss"],
+  "./README.md": ["markdown-toc -i"]
+}

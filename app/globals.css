@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Literata");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -17,7 +20,6 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 @layer utilities {

@@ -1,3 +1,186 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "parser": "@typescript-eslint/parser",
+  "extends": [
+    "eslint:recommended",
+    "plugin:cypress/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:react/recommended",
+    "plugin:security/recommended",
+    "prettier",
+    "airbnb",
+    "airbnb/hooks",
+    "plugin:jest-dom/recommended",
+    "plugin:jest/recommended",
+    "plugin:@next/next/recommended",
+    "plugin:prettier/recommended",
+    "plugin:sonarjs/recommended",
+    "plugin:testing-library/react",
+    "next",
+    "next/core-web-vitals",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "parserOptions": {
+    "babelOptions": { "presets": ["@babel/preset-react"] },
+    "ecmaFeatures": { "jsx": true },
+    "ecmaVersion": 2021,
+    "requireConfigFile": false,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "cypress",
+    "jest",
+    "jest-dom",
+    "jsdoc",
+    "jsx-a11y",
+    "no-only-tests",
+    "prettier",
+    "react",
+    "security",
+    "sonarjs",
+    "testing-library",
+    "@typescript-eslint"
+  ],
+  "rules": {
+    "default-param-last": "error",
+    "import/extensions": "off",
+    "import/prefer-default-export": "off",
+    "import/no-extraneous-dependencies": "off",
+    "jest/no-large-snapshots": ["error", { "maxSize": 29 }],
+    "jest/no-restricted-matchers": "error",
+    "jsdoc/check-param-names": 2,
+    "jsdoc/check-tag-names": ["error", { "definedTags": ["jest-environment"] }],
+    "jsdoc/check-types": 2,
+    "jsx-a11y/no-static-element-interactions": 1,
+    "jsx-a11y/no-noninteractive-element-interactions": 1,
+    "jsx-a11y/click-events-have-key-events": 1,
+    "jsx-a11y/anchor-is-valid": 1,
+    "jsx-a11y/interactive-supports-focus": 1,
+    "jsx-a11y/label-has-for": [
+      1,
+      {
+        "components": ["Label"],
+        "required": {
+          "some": ["nesting", "id"]
+        },
+        "allowChildren": true
+      }
+    ],
+    "linebreak-style": ["error", "unix"],
+    "max-depth": ["error", 2],
+    "max-lines": ["error", { "skipComments": true, "skipBlankLines": true }],
+    "max-params": ["error", 7],
+    "max-statements": ["error", 10, { "ignoreTopLevelFunctions": true }],
+    "no-console": "error",
+    "no-empty-function": [
+      "error",
+      {
+        "allow": [
+          "arrowFunctions",
+          "asyncFunctions",
+          "asyncMethods",
+          "constructors",
+          "functions",
+          "generatorFunctions",
+          "generatorMethods",
+          "getters",
+          "methods",
+          "setters"
+        ]
+      }
+    ],
+    "no-only-tests/no-only-tests": [
+      "error",
+      { "block": ["test", "it", "assert", "specify", "describe"] }
+    ],
+    "no-nested-ternary": "error",
+    "no-shadow": "off",
+    "@typescript-eslint/no-shadow": ["error", { "hoist": "all" }],
+    "no-use-before-define": "error",
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": true,
+        "printWidth": 100,
+        "bracketSameLine": false
+      }
+    ],
+    "react/function-component-definition": [
+      "error",
+      {
+        "namedComponents": "arrow-function",
+        "unnamedComponents": "arrow-function"
+      }
+    ],
+    "react/jsx-curly-newline": "off",
+    "react/jsx-uses-vars": 1,
+    "react/jsx-uses-react": 1,
+    "react/no-find-dom-node": 1,
+    "react-hooks/exhaustive-deps": "error",
+    "react/jsx-filename-extension": [
+      "error",
+      { "extensions": [".js", ".jsx", ".ts", ".tsx"] }
+    ],
+    "react/jsx-fragments": ["error", "element"],
+    "security/detect-object-injection": "error",
+    "sort-imports": [
+      "error",
+      {
+        "ignoreCase": true,
+        "ignoreDeclarationSort": true,
+        "ignoreMemberSort": false,
+        "memberSyntaxSortOrder": ["none", "all", "multiple", "single"]
+      }
+    ],
+    "@typescript-eslint/ban-ts-comment": "warn",
+    "@typescript-eslint/no-unused-vars": "error",
+    "@typescript-eslint/explicit-function-return-type": "warn"
+  },
+  "overrides": [
+    {
+      "files": [
+        "**/*.spec.js",
+        "**/*.spec.ts",
+        "**/__data__/*.js",
+        "**/__data__/*.ts",
+        "**/__mocks__/*.js",
+        "**/__mocks__/*.ts",
+        "**/__tests__/data/*.js",
+        "**/__tests__/data/*.ts",
+        "**/__tests__/*.js",
+        "**/__tests__/*.ts"
+      ],
+      "rules": {
+        "max-lines": "off",
+        "max-statements": "off",
+        "sonarjs/no-duplicate-string": "off"
+      }
+    },
+    {
+      "files": ["**/*.spec.js", "**/*.spec.ts"],
+      "rules": {
+        "jest/expect-expect": "off"
+      }
+    }
+  ],
+  "env": {
+    "node": true,
+    "browser": true,
+    "es6": true,
+    "jest": true,
+    "jasmine": true
+  },
+  "globals": {
+    "JSX": true
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    },
+    "jsdoc": {
+      "tagNamePreference": {
+        "augments": "extends"
+      }
+    }
+  }
 }
