@@ -1,7 +1,7 @@
 name: Publish to GitHub Pages
 
 on:
-  push:
+  pull_request:
     branches:
       - main
 
@@ -20,15 +20,10 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: "18"
 
       - name: Install dependencies
         run: yarn --frozen-lockfile
-
-      # - name: Setup Pages
-      #   uses: actions/configure-pages@v4
-      #   with:
-      #     static_site_generator: next
 
       - name: Build application
         env:
