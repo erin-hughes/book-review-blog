@@ -1,11 +1,14 @@
+import { formatImagePath } from "../../../utils/formatImagePath";
 import { HeaderProps } from "./interfaces/HeaderProps";
 
 const Header = ({ title }: HeaderProps) => {
+  const bgImagePath = formatImagePath({ path: "images/plaidroses.png" });
+
   return (
     <div
       className="relative h-64 flex items-center justify-center text-center border-t-2 border-b-2 border-double border-stone-800"
       style={{
-        backgroundImage: `url('/images/plaidroses.png')`,
+        backgroundImage: `url('${bgImagePath}')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

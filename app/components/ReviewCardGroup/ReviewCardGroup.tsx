@@ -1,3 +1,4 @@
+import { formatImagePath } from "../../../utils/formatImagePath";
 import ReviewCard from "../ReviewCard/ReviewCard";
 
 interface ReviewCardGroupProps {
@@ -11,7 +12,9 @@ const ReviewCardGroup = ({ reviews }: ReviewCardGroupProps) => {
         <ReviewCard
           title={review.data.title}
           slug={review.slug}
-          imageSrc={`/images/covers/${review.slug}.jpg`}
+          imageSrc={formatImagePath({
+            path: `/images/covers/${review.slug}.jpg`,
+          })}
         />
       ))}
     </section>
