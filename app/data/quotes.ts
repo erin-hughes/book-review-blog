@@ -1,4 +1,6 @@
-const quotes = [
+import { Quote } from "../../interfaces/Quote";
+
+const quotes: Quote[] = [
   {
     text: "Never let anyone make you feel ordinary.",
     author: "Taylor Jenkins Reid",
