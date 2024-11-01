@@ -8,4 +8,4 @@ inProgress: true
 
 # Review Title
 
-This is a placeholder for the review I need to write for the first couple of volumnes of A Sign of Affection.
+This is a placeholder for the review I need to write for the first couple of volumes of A Sign of Affection.

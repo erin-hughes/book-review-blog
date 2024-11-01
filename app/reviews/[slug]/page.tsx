@@ -16,7 +16,7 @@ const ReviewPage = async ({ params }: { params: { slug: string } }) => {
   return (
     <div>
       <Header title={`${review.data.month}: ${review.data.title}`} />
-      <div className="max-w-7xl mx-auto prose prose-stone prose-invert">
+      <div className="max-w-7xl mx-auto prose prose-stone prose-invert prose-custom">
         <Markdown remarkPlugins={[remarkGfm]} className="p-6">
           {review.content}
         </Markdown>

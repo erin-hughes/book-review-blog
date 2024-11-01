@@ -10,7 +10,8 @@
     "lint:js": "eslint --ext js,jsx,mjs .",
     "lint:ts": "eslint --ext ts,tsx .",
     "lint:scss": "stylelint --ignore-path .gitignore \"**/*.scss\"",
-    "lint:scss:fix": "stylelint --fix --ignore-path .gitignore \"**/*.scss\""
+    "lint:scss:fix": "stylelint --fix --ignore-path .gitignore \"**/*.scss\"",
+    "spelling": "cspell lint \"**\" --no-progress"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
@@ -28,6 +29,7 @@
     "@types/react-dom": "^18",
     "@typescript-eslint/eslint-plugin": "5.27.1",
     "@typescript-eslint/parser": "5.27.1",
+    "cspell": "^8.15.5",
     "eslint": "8.45.0",
     "eslint-config-airbnb": "19.0.4",
     "eslint-config-next": "14.2.3",
