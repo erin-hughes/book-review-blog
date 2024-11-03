@@ -30,30 +30,24 @@ body {
 
 /* Custom prose class for review markdown styling */
 .prose-custom {
-  /* @apply prose prose-stone prose-invert; Base prose styles */
-
-  /* Add custom styles here */
   h1,
   h2,
   h3 {
-    @apply font-ebGaramond font-normal;
+    @apply font-ebGaramond font-normal text-3xl;
   }
 
-  /* p { */
-  /* @apply my-4 text-lg leading-relaxed; Adjust spacing and text size */
-  /* } */
+  blockquote {
+    border: none;
+    text-align: center;
+    padding-inline: unset;
+    @apply font-ebGaramond text-xl max-w-4xl m-auto mt-8 mb-8;
+    @apply border-b-8 border-x-0 border-t-0 border-double border-rose-700;
+  }
 
-  /* blockquote { */
-  /* @apply border-l-4 border-rose-700 pl-4 italic text-rose-200; Custom blockquote style */
-  /* } */
-
-  /* Customize links */
-  /* a { */
-  /* @apply text-rose-300 underline; */
-  /* &:hover { */
-  /* @apply text-rose-400; */
-  /* } */
-  /* } */
-
-  /* Additional customizations for lists, code blocks, etc. */
+  a {
+    @apply text-amber-200 no-underline;
+    &:hover {
+      @apply text-amber-400;
+    }
+  }
 }

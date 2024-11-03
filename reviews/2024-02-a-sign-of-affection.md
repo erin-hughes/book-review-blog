@@ -1,9 +1,11 @@
 ---
 title: "A Sign of Affection"
-author: "Suu Morishita, Christine Dashiell (Translator)"
 month: "February 2024"
+author: ["Suu Morishita", "Christine Dashiell (Translator)"]
+genre: ["Manga", "Romance", "Slice of Life"]
+summary: ""
+pageCount: 198
 rating: 4
-inProgress: true
 ---
 
 # Review Title

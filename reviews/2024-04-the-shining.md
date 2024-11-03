@@ -1,11 +1,11 @@
 ---
 title: "The Shining"
-author: "Stephen King"
 month: "April 2024"
+author: ["Stephen King"]
+genre: ["Horror"]
+summary: ""
+pageCount: 497
 rating: 5
-inProgress: true
 ---
 
-# Review Title
-
-pls read this it's so good
+Full review coming soon.

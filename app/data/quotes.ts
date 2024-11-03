@@ -76,6 +76,11 @@ const quotes: Quote[] = [
     author: "Andrzej Sapkowski",
     book: "The Last Wish",
   },
+  {
+    text: "There is no antidote for the poison of my past other than my future.",
+    author: "Olivia Rose Darling",
+    book: "Fear the Flames",
+  },
 ];
 
 export { quotes };
