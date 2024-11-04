@@ -26,7 +26,7 @@ const ReviewPage = async ({ params }: { params: { slug: string } }) => {
           pageCount={review.data.pageCount}
           rating={review.data.rating}
           // TODO - pull this image path logic out into a wee util
-          imageSrc={`/images/covers/${review.slug}.jpg`}
+          imageSrc={`/images/covers/${review.slug}.webp`}
         />
         <Markdown remarkPlugins={[remarkGfm]} className="p-6">
           {review.content}

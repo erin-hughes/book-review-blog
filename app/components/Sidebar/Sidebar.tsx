@@ -28,7 +28,7 @@ const Sidebar = () => {
           Follow me on{" "}
           <Link
             href="https://www.goodreads.com/user/show/174801728-erin"
-            className="text-amber-300 hover:text-amber-100 transition-colors duration-200"
+            className="text-amber-200 hover:text-amber-400 transition-colors duration-200"
           >
             Goodreads
           </Link>
@@ -37,7 +37,7 @@ const Sidebar = () => {
           View my blog's{" "}
           <Link
             href=""
-            className="text-amber-300 hover:text-amber-100 transition-colors duration-200"
+            className="text-amber-200 hover:text-amber-400 transition-colors duration-200"
           >
             source code
           </Link>
