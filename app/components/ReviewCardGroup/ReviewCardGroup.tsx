@@ -13,7 +13,7 @@ const ReviewCardGroup = ({ reviews }: ReviewCardGroupProps) => {
           title={review.data.title}
           slug={review.slug}
           imageSrc={formatImagePath({
-            path: `/images/covers/${review.slug}.jpg`,
+            path: `/images/covers/${review.slug}.webp`,
           })}
         />
       ))}

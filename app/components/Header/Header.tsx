@@ -2,7 +2,7 @@ import { formatImagePath } from "../../../utils/formatImagePath";
 import { HeaderProps } from "./interfaces/HeaderProps";
 
 const Header = ({ title }: HeaderProps) => {
-  const bgImagePath = formatImagePath({ path: "/images/plaid-roses.png" });
+  const bgImagePath = formatImagePath({ path: "/images/plaid-roses.webp" });
 
   return (
     <div

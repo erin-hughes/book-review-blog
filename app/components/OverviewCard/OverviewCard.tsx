@@ -1,4 +1,5 @@
 import { FaStar } from "react-icons/fa";
+import { formatImagePath } from "../../../utils/formatImagePath";
 
 interface OverviewCardProps {
   title: string;
@@ -24,7 +25,9 @@ const OverviewCard = ({
       <div className="flex">
         <div className="w-1/4 mr-4">
           <img
-            src={imageSrc}
+            src={formatImagePath({
+              path: imageSrc,
+            })}
             alt={`Cover of ${title}`}
             width={200}
             height={300}
