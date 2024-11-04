@@ -42,9 +42,6 @@ body {
   }
 
   a {
-    @apply text-amber-200 no-underline;
-    &:hover {
-      @apply text-amber-400;
-    }
+    @apply no-underline text-amber-200 hover:text-amber-400 transition-colors duration-200;
   }
 }
