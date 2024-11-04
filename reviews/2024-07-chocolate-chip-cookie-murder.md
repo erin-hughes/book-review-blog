@@ -1,11 +1,11 @@
 ---
 title: "Chocolate Chip Cookie Murder"
-author: "Joanne Fluke"
 month: "July 2024"
+author: ["Joanne Fluke"]
+genre: ["Cozy Mystery"]
+summary: ""
+pageCount: 436
 rating: 2
-inProgress: true
 ---
 
-# Review Title
-
-meh
+Full review coming soon.

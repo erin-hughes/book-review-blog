@@ -1,11 +1,11 @@
 ---
 title: "American Psycho"
-author: "Brett Easton Ellis"
 month: "June 2024"
+author: ["Brett Easton Ellis"]
+genre: ["Horror", "Thriller"]
+summary: ""
+pageCount: 399
 rating: 4
-inProgress: true
 ---
 
-# Review Title
-
-Oh my God! It even has a watermark!
+Full review coming soon.

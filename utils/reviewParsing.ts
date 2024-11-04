@@ -23,7 +23,7 @@ const getAllReviews = () => {
   });
 
   // reversing the order so the most recent reviews float to the top
-  return allReviews.filter((review) => !review.data.inProgress).reverse();
+  return allReviews.reverse();
 };
 
 // fetch a single review by its slug

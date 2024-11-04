@@ -1,11 +1,11 @@
 ---
 title: "The Last Wish"
-author: "Andrzej Sapkowski"
 month: "October 2024"
+author: ["Andrzej Sapkowski"]
+genre: ["High Fantasy"]
+summary: ""
+pageCount: 280
 rating: 2
-inProgress: true
 ---
 
-# Review Title
-
-placeholder
+Full review coming soon.

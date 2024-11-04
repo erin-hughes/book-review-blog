@@ -1,0 +1,33 @@
+{
+  "version": "0.2",
+  "language": "en, en-GB, en-US",
+  "ignorePaths": [
+    "public/images/**",
+    "licenses**",
+    "coverage/**",
+    "package.json",
+    "yarn.lock",
+    ".github/workflows",
+    "out"
+  ],
+  "words": [
+    "Goodreads",
+    "Magick",
+    "Yarros",
+    "Sousuke",
+    "Natsukawa",
+    "Kirsty",
+    "Sapkowski",
+    "Khaw",
+    "Kadrey",
+    "Jirat",
+    "Patradoon",
+    "Morishita",
+    "Dashiell",
+    "Broadbent",
+    "Maehrer",
+    "Lovecraftian",
+    "Romantasy"
+  ],
+  "flagWords": []
+}
