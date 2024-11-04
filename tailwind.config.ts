@@ -13,19 +13,19 @@ const config: Config = {
         poppins: ['"Poppins"', "sans-serif"],
       },
       keyframes: {
-        'fade-in': {
-          '0%': {
-            opacity: '0',
-            transform: 'translate(-2rem)',
+        "fade-in": {
+          "0%": {
+            opacity: "0",
+            transform: "translate(-2rem)",
           },
-          '100%': {
-            opacity: '1',
-            transform: 'translate(0)',
+          "100%": {
+            opacity: "1",
+            transform: "translate(0)",
           },
-        }
+        },
       },
       animation: {
-        'fade-in': 'fade-in 2s ease-in-out',
+        "fade-in": "fade-in 2s ease-in-out",
       },
     },
   },
