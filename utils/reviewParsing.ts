@@ -2,12 +2,13 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { slugify } from "./slugify";
+import { Review, ReviewMetadata } from "../interfaces/Review";
 
 // path to markdown files
 const filepath = path.join(process.cwd(), "reviews");
 
 // fetch all reviews and their metadata
-const getAllReviews = () => {
+const getAllReviews = (): Review[] => {
   const fileNames = fs.readdirSync(filepath);
 
   const allReviews = fileNames.map((fileName) => {
@@ -17,7 +18,7 @@ const getAllReviews = () => {
 
     return {
       slug: slugify({ title: data?.title }),
-      data,
+      data: data as ReviewMetadata,
       content,
     };
   });
@@ -27,7 +28,7 @@ const getAllReviews = () => {
 };
 
 // fetch a single review by its slug
-const getReviewBySlug = async ({ slug }: { slug: string }) => {
+const getReviewBySlug = async ({ slug }: { slug: string }): Promise<Review> => {
   const fileNames = fs.readdirSync(filepath);
 
   const matchingFile = fileNames.find((fileName) => fileName.includes(slug));
@@ -41,7 +42,7 @@ const getReviewBySlug = async ({ slug }: { slug: string }) => {
 
   return {
     slug,
-    data,
+    data: data as ReviewMetadata,
     content,
   };
 };

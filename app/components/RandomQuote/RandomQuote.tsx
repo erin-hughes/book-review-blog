@@ -18,8 +18,7 @@ const RandomQuote = () => {
         <span className="text-6xl pl-4 text-rose-700">"</span>
       </div>
       <p className="text-end pt-2">
-        {quote.author},{" "}
-        <span className="font-style: italic">{quote.book}</span>
+        {quote.author}, <span className="font-style: italic">{quote.book}</span>
       </p>
     </div>
   );

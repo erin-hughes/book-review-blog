@@ -1,9 +1,6 @@
 import { formatImagePath } from "../../../utils/formatImagePath";
 import ReviewCard from "../ReviewCard/ReviewCard";
-
-interface ReviewCardGroupProps {
-  reviews: any[];
-}
+import { ReviewCardGroupProps } from "./interfaces/ReviewCardGroupProps";
 
 const ReviewCardGroup = ({ reviews }: ReviewCardGroupProps) => {
   return (

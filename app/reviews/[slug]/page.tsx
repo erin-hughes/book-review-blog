@@ -3,9 +3,10 @@ import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import Header from "../../components/Header/Header";
 import OverviewCard from "../../components/OverviewCard/OverviewCard";
+import { Review } from "../../../interfaces/Review";
 
 const generateStaticParams = async () => {
-  const reviews = getAllReviews();
+  const reviews: Review[] = getAllReviews();
   return reviews.map((review) => ({
     slug: review.slug,
   }));
