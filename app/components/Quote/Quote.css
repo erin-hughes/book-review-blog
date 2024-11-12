@@ -1,0 +1,26 @@
+.top-left-corner,
+.bottom-right-corner {
+  @apply border-b-2 border-x-0 border-t-0 border-double border-amber-400 w-1/6 self-start;
+}
+
+.bottom-right-corner {
+  align-self: end;
+}
+
+.top-left-corner::before {
+  content: "";
+  position: absolute;
+  width: 0px;
+  height: 1rem;
+  @apply border-l-2 border-double border-amber-400;
+}
+
+.bottom-right-corner::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 0px;
+  height: 1rem;
+  @apply border-r-2 border-double border-amber-400;
+}

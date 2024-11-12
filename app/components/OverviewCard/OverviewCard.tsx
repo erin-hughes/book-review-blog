@@ -1,6 +1,8 @@
 import { FaStar } from "react-icons/fa";
 import { formatImagePath } from "../../../utils/formatImagePath";
 import { OverviewCardProps } from "./interfaces/OverviewCardProps";
+import Markdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 const OverviewCard = ({
   title,
@@ -27,7 +29,7 @@ const OverviewCard = ({
         </div>
         <div className="w-3/4 flex flex-col justify-between m-auto">
           <div>
-            <p>{summary}</p>
+            <Markdown remarkPlugins={[remarkGfm]}>{summary}</Markdown>
             <div className="grid grid-cols-2">
               <div>
                 <p>
