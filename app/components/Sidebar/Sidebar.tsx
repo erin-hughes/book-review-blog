@@ -36,7 +36,7 @@ const Sidebar = () => {
         <span>
           View my blog's{" "}
           <Link
-            href=""
+            href="https://github.com/erin-hughes/book-review-blog"
             className="text-amber-200 hover:text-amber-400 transition-colors duration-200"
           >
             source code

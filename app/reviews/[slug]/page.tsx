@@ -1,8 +1,10 @@
 import { getAllReviews, getReviewBySlug } from "../../../utils/reviewParsing";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 import Header from "../../components/Header/Header";
 import OverviewCard from "../../components/OverviewCard/OverviewCard";
+import Quote from "../../components/Quote/Quote";
 import { Review } from "../../../interfaces/Review";
 
 const generateStaticParams = async () => {
@@ -29,7 +31,15 @@ const ReviewPage = async ({ params }: { params: { slug: string } }) => {
           // TODO - pull this image path logic out into a wee util
           imageSrc={`/images/covers/${review.slug}.webp`}
         />
-        <Markdown remarkPlugins={[remarkGfm]} className="p-6">
+        <Markdown
+          className="p-6"
+          remarkPlugins={[remarkGfm]}
+          rehypePlugins={[rehypeRaw]}
+          components={{
+            // @ts-expect-error - quote is a custom HTML element
+            quote: Quote,
+          }}
+        >
           {review.content}
         </Markdown>
       </div>

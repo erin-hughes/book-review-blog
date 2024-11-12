@@ -23,7 +23,7 @@ const quotes: Quote[] = [
   },
   {
     text: "It's not what you look at that matters, it's what you see.",
-    author: "Matt Haig",
+    author: "Matt Haig (quoting Henry David Thoreau)",
     book: "The Midnight Library",
   },
   {
