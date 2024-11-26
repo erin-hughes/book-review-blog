@@ -81,6 +81,11 @@ const quotes: Quote[] = [
     author: "Olivia Rose Darling",
     book: "Fear the Flames",
   },
+  {
+    text: "When you wonder something, doesn't that mean part of you wants to believe it?",
+    author: "V.E. Schwab",
+    book: "Vicious",
+  },
 ];
 
 export { quotes };
