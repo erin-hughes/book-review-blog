@@ -34,7 +34,7 @@ There's a lot to like about _The Midnight Library_. In particular, I thoroughly 
 
 My favourite quote was probably this one:
 
-<quote page="61">"It's difficult to predict, isn't it? The things that will make up happy."</quote>
+<articlequote byline="p. 61">"It's difficult to predict, isn't it? The things that will make up happy."</articlequote>
 
 This was said by Mrs Elm to Nora, after she comes out of one of her potential other lives and finds that she didn't enjoy it as much as she thought she would. This quote stuck with me because I think there's a real honesty in it. We often do believe that the grass will be greener on the other side of the fence; that if we only had a different job, or were with a particular person, then everything would be better. But the reality of those circumstances is often very different from how we imagine it, and it might be even worse than where we were beforehand. What I particularly like about the way Mrs Elm breaks this to Nora is that she says it without judgement. There's no smugness in it, no "I told you so" attitude. It's simply a safe discussion between friends about how funny life can be sometimes. This cozy, almost quaint wrapping helps to make these philosophical revelations go down a bit smoother, and prevents them from coming across as overly sanctimonious.
 
@@ -44,7 +44,7 @@ The magical elements are grounded further by the excerpts from Nora's own writin
 
 It's an interesting approach, and I don't think I've ever read a fantasy novel where the fantasy elements are this muted. But although I normally prefer urban fantasy where the marriage between the modern setting and the magic is more explicit, it works well here in _The Midnight Library_. This isn't a story about having the ability to travel the multiverse and experience other realities. It's a story about shifting perspectives - about how Nora's point of view changes when she lives those other realities. As Haig writes, aptly quoting Henry David Thoreau,
 
-<quote page="219">"It's not what you look at that matters, it's what you see."</quote>
+<articlequote byline="p. 219">"It's not what you look at that matters, it's what you see."</articlequote>
 
 The "magic" in the story is merely a stand in for the work that needs to be done in order to gain this new worldview. One could even go so far as to say that the work, the process, the _therapy_, is the real magic.
 
@@ -56,7 +56,7 @@ To begin with, none of the wonderful quotes or epistolary sections or sprinkles 
 
 That's not to say that I would have preferred if Nora had decided that she wanted to die after all - a novel that posits that suicide is a valid way out for people who are struggling would have been deeply upsetting to read, and harmful to put into the world. But I knew that wasn't how the book was going to end, and once I took that as fact, there was only one possible resolution to the plot. There was no tension for me while reading about Nora's journey, because I had already come to the conclusion that she would, and I did 250 pages before her.
 
-> A cynical reader could take a very nihilistic view of Nora's experience in the library. If it's not possible to be absolutely happy, then what's the point of the pursuit of happiness?
+<pullquote>A cynical reader could take a very nihilistic view of Nora's experience in the library. If it's not possible to be absolutely happy, then what's the point of the pursuit of happiness?</pullquote>
 
 The twin spectres of _A Christmas Carol_ and _It's a Wonderful Life_ do haunt this book to a degree. All three stories share the same basic premise: an unhappy protagonist is shown visions of either their pasts or alternate realities regarding themselves, and are motivated by these visions to change how they lead their lives. Haig even subtly invokes _It's a Wonderful Life_ in his version of the story; Nora lives in the real English town of Bedford, and _It's a Wonderful Life_ is set in the fictional Bedford Falls, New York. In spite of this, I don't believe that _The Midnight Library_ is derivitive of either story beyond the same basic hook. But it's interesting to compare the ways these different texts approach that hook.
 
@@ -64,7 +64,7 @@ In _A Christmas Carol_, Ebenezer Scrooge is visited by the three Ghosts of Chris
 
 In both stories, the protagonists change their mindsets after they realise the impact that they've had on others. This lies in contrast with Nora's journey in _The Midnight Library_; her revelations are more individual. After seeing many potential variants of her life where she still hasn't achieved absolute happiness, she concludes that absolute happiness isn't achievable at all. The grass is just as green in her own reality as it is in all the alternatives she sees, and although that reality isn't perfect, it doesn't mean that she should stop living in it. As Nora writes in her life affirming social media post at the end of the novel:
 
-<quote page="277">"It is easy to regret the lives we aren't living... But it is not the lives we regret not living that are the real problem. It is the regret itself."</quote>
+<articlequote byline="p. 277">"It is easy to regret the lives we aren't living... But it is not the lives we regret not living that are the real problem. It is the regret itself."</articlequote>
 
 This is a more nuanced message than the ones presented in _A Christmas Carol_ and _It's a Wonderful Life_. Unlike Scrooge and George Bailey, who change after realising the effect they're having on the people around them, Nora changes after realising how her own mindset is affecting her. Instead of resolving to be kind to others, Nora resolves to be kinder to herself. That's a much more useful lesson to learn, and much closer to what healing from depression looks like in the real world.
 

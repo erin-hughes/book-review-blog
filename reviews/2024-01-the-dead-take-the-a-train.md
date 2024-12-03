@@ -16,7 +16,7 @@ That wasn't always the case. The first time I visited the city I was 16, and I w
 
 I've since gotten over this fear, and have been back to New York probably half a dozen times in the years since then. Maybe I just needed to experience a bit more life to appreciate the city - at the time, New York was the biggest place I'd ever been, and I think the sheer scale of it was part of what intimidated me. But I think what's more likely is that, as I got older, I understood that darkness that lurks on the edge of the city lights more and more. And I fell in love with the city in part because of that edge, not in spite of it.
 
-> They say you're not supposed to judge a book by its cover, but I can't deny that the monstrously cool artwork... is a big part of what drew me to this book.
+<pullquote>They say you're not supposed to judge a book by its cover, but I can't deny that the monstrously cool artwork... is a big part of what drew me to this book.</pullquote>
 
 I was lucky enough to ring in 2024 in New York City, and it was there that I made my resolution to start reading at least one new book a month. In the name of an auspicious start to my challenge, I went to [The Strand](https://www.strandbooks.com/) to purchase the first book that I would read. And it was there that I saw _The Dead Take the A Train_ staring out at me from the shelf.
 
@@ -34,7 +34,7 @@ Desperate for an easy way to clean up her act and get everything that she wants,
 
 This was my first real experience with the [cosmic horror](https://en.wikipedia.org/wiki/Lovecraftian_horror) subgenre - I hadn't even come across the term before reading the jacket of the book. If you're familiar with H.P. Lovecraft of any of the work he inspired, you'll already have a grasp of the main tropes of the genre. Cosmic horror deals less with slasher serial killers or malevolent spirits, and more with humanity's place in the universe, and how ultimately insignificant that is. Antagonists in cosmic horror tend to be incomprehensible, eldritch beings, often with god-like power. The "horror" aspect comes from how easily these beings could destroy us, and how small we are to them.
 
-> New York might be this unknowable machine, yes, but inside of it, there are people that are knowable, and _The Dead Take the A Train_ is more about them than it is about the horrors of the big city.
+<pullquote>New York might be this unknowable machine, yes, but inside of it, there are people that are knowable, and _The Dead Take the A Train_ is more about them than it is about the horrors of the big city.</pullquote>
 
 Based on my own experiences of New York, I actually feel like it's the perfect setting for a cosmic horror story. The more that I read about Julie's fight against the various monsters and demons she encounters, the more I was reminded about how I felt the first time I was in the city, and about the dread I would sometimes feel thinking about how big and alien it was to me. It was almost as if New York itself was one of these Lovecraftian monsters - unthinking, unfeeling, beyond understanding, and capable of destroying the people in it without a second thought.
 
@@ -46,7 +46,7 @@ In particular, the mechanics of the magic Julie uses were really interesting. I 
 
 Whenever Julie speaks a spell, it also takes a toll, giving her a headache and leaking black goo all over her mouth. These nuggets of realism - the cost of fighting the forces of darkness, and the thought that Julie has to put in to prepare for those fights - help to ground the more eldritch elements, and that marriage of the gritty urban fantasy tropes with the cosmic horror backdrop is one of the most unique things about the book for me.
 
-> Julie and Sarah's relationship is a blessed bright spot... it's like the silver lining of a cloud that hangs over the entire city.
+<pullquote>Julie and Sarah's relationship is a blessed bright spot... it's like the silver lining of a cloud that hangs over the entire city.</pullquote>
 
 My other favourite part of this story was the friends-to-lovers arc with Julie and Sarah. The world of _The Dead Take the A Train_ is often a forboding, graphically violent one, but this love line stops it from going too far down the rabbit-hole. It really feels like there's a genuine, messy history between the two friends, and I appreciate that it isn't instantly solved as soon as Sarah arrives. The relationship that they begin to build in this book is very sweet, and set against the gruesome backdrop of this monster-infested New York, it looks even more innocent. It's a contrast that works really well, and results in the moments of levity that Julie shares with Sarah shining all the brighter.
 

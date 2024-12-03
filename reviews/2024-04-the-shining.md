@@ -20,7 +20,7 @@ The same friends who knew me to be terrified of horror movies were fairly shocke
 
 The author Joe Hill writes in an essay for The New York Times:
 
-<quote>The imagination is our final advantage as a species, a place to safely (and happily) explore experiences that are far from safe and far from happy.</quote>
+<articlequote author="Joe Hill" byline="">The imagination is our final advantage as a species, a place to safely (and happily) explore experiences that are far from safe and far from happy.</articlequote>
 
 This idea, that the imagination and the stories we create with it are tools that allow us to practise negative emotions, really helped me to understand how I made the leap from lifelong coward to card-carrying horror fanatic. The pandemic was a terrifying experience for me. I was living in the south of England at the time, physically separated from my entire support system at home in the north of Ireland. I hadn't been living in England for very long, certainly not long enough to put down roots and forge friendships strong enough to support me through what felt like the end of the world. As such, I spent just under 9 months locked down in my 2 bedroom flat, very much alone.
 
@@ -56,7 +56,7 @@ Ultimately Jack winds up an antagonistic character in _The Shining_, manipulated
 
 This is something that even Dick Halloran notices when he tests Jack to see if he has powers like Danny's. Although Dick doesn't believe that Jack shines, he comments on "something - _something_ - that he was hiding. Or something he was holding in so deeply submerged in himself that it was impossible to get to." It's possible that, even within hours of first arriving at The Overlook, the hotel's dark presence has already begun to worm its way into Jack's mind. But it's more likely that Dick is picking up on something that's already there within Jack, and that it's something that Jack works hard to represses or outright ignore.
 
-> The hotel is simply throwing fuel onto an already burning fire. Jack was already fighting with his dark side. The Overlook is merely ensure that he loses.
+<pullquote>The hotel is simply throwing fuel onto an already burning fire. Jack was already fighting with his dark side. The Overlook is merely ensure that he loses.</pullquote>
 
 King goes to great lengths to illustrate the events in Jack's life that have cultivated this darkness within him, including several flashbacks to formative experiences. The earliest of these in Jack's timeline is his experience growing up with his father, Mark Anthony Torrance. Mark is another minefield of contradictions, another for whom the pieces of his life don't seem like they should fit together. Mark was a father of four and worked as a nurse at the Berlin Community Hospital, and as a small child, Jack loved him "uncritically and strongly". Mark was also a physically abusive drunk, who terrorised his family and was hated by his other three children.
 
@@ -68,7 +68,7 @@ The cycle of abuse continues unbroken in Jack's relationships with his own wife 
 
 The hotel uses the dream of Jack's father beating his mother to manipulate him. It makes Jack believe that his father is speaking to him through the CB radio, telling him to kill Wendy and Danny because all artist must suffer for their art. As a result, Jack destroys the radio in his sleep, ensuring that no-one will be able to contact the outside world to call for help. It is in this action that the line from the horrors that Jack suffered during his childhood, and the horrors that he is committing in the present, becomes clear. Mark has had a profound influence in Jack, and that influence causes Jack to commit acts of violence that hurt his family. It happened when he drunkenly broke Danny's arm, and it's happened again when he destroyed the radio. Yes, the hotel is also actively twising his mind, but it's simply throwing fuel onto an already burning fire. Jack was already fighting with his dark side. The Overlook is merely ensuring that he loses.
 
-## He Covets
+## And How Do We Begin to Covet, Clarice?
 
 This technique of using flashbacks to add context to Jack's behaviour is used again in what I would argue is the single most compelling insight into his psyche, and the moment that stuck with me long after I had finished the book. It is the scene in which Jack discovers the wasps' nest hidden in the roof of The Overlook and is stung by a wasp, and it serves as a powerful summary of everything about Jack that has led him to this point in his life.
 
@@ -82,7 +82,7 @@ In addition to his duties as an English teacher at Stovington, Jack also led the
 
 Already we see Jack's defense unravel, exposing that even though he didn't set the timer ahead, he was thinking about it, not wanting to have to listen to George stutter. But the hesitation in providing the reason hints further at Jack's resentment of George. He's unable to admit that he was jealous of the handsome, charismatic boy, who had his "whole future [laid] ahead of him", who drew the attention of girls and was talented at sports. As Jack continues to reminisce, he recalls finding George slashing the tyres of his car in retaliation for being cut from the debate team, and assaulting the boy in a blind rage. Guiltily, he conceeds even further, swearing that "he had set the timer ahead no more than a minute. And not out of hate but out of pity."
 
-> Jack's unwillingness to accept any responsibility for his actions is further evidence of the ever present darkness lurking inside him.
+<pullquote>Jack's unwillingness to accept any responsibility for his actions is further evidence of the ever present darkness lurking inside him.</pullquote>
 
 This flashback firmly establishes Jack as an unreliable narrator. At the beginning, he was "quite sure" that he hadn't sabotaged George by setting the timer ahead, but by the end, he's swearing the opposite. If he continued to be pressed, what else is there that Jack is "quite sure" about that would turn out to be untrue? How can he be "quite sure" that he didn't hate George, but pity him? And how much else of what Jack has said thus far should be questioned once it's revealed how easily he can reframe things in his favour, even within his own mind? Did George truly have a stutter, or was it simply an excuse Jack created to justify kicking him off the debate team? When Jack and his alcoholic friend Al Shockley were drunk driving, had the bike that they ran over in the middle of the road really been abandoned? Or has Jack just convinced himself that there was no rider?
 
@@ -96,7 +96,7 @@ It's undeniable that it was the influence of The Overlook that drove Jack to try
 
 I began writing this piece in mid-November 2024, just a few days after finishing Bloober Team's remake of the classic psychological horror game _Silent Hill 2_. Like _The Shining_, it's a story about an ordinary man and his experiences trapped in a supernatural location - in this case, James Sunderland in the titular, monster-infested town of Silent Hill. But it's also a very human story, and spends just as much time delving into James' psyche as it does throwing scary enemies at the player. The final act of the game, set in the eerie Lakeview Hotel, feels like a direct homage to _The Shining_, exploring similar themes of guilt, isolation, and the monsters lurking within us that we are reluctant to face.
 
-> We keep reproducing stories like _The Shining_ because they guide us through our own experiences of fear and loneliness.
+<pullquote>We keep reproducing stories like _The Shining_ because they guide us through our own experiences of fear and loneliness.</pullquote>
 
 As a recent adopter of horror fiction, I've been playing catch up for the past few years to absorb the works that I've missed out on. And one of the most interesting things about that has been tracing the threads of influence that often bind these stories together. Joss Whedon's _The Cabin in the Woods_ (2012) is a homage to the horror movie in general, and to Sam Raimi's _The Evil Dead_ (1981) in particular; Whedon even recreates the famous shot of the cabin's cellar door suddenly bursting open in his film. Vecna, the villain from the fourth season of _Stranger Things_ (2022), is heavily inspired by Freddy Krueger from _A Nightmare on Elm Street_ (1984), killing teenagers by trapping them in trances, much like Freddy's dream-based murders. Robert Englund, the actor who plays Freddy Krueger, even makes a cameo in that season of the show, a deliberate display of fealty to the _Nightmare_ franchise and its influence on Venca. Then there is Mike Flanagan, who has directly adapted the works of several titans of horror literature, including Shirley Jackson (_The Haunting of Hill House_, 2018), Edgar Allan Poe (_The Fall of the House of Usher_, 2023), and Stephen King (_Doctor Sleep_, 2019, and _Gerald's Game_, 2017).
 

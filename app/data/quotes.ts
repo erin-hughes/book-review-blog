@@ -86,6 +86,11 @@ const quotes: Quote[] = [
     author: "V.E. Schwab",
     book: "Vicious",
   },
+  {
+    text: "To the world we dream about, and the one we live in now.",
+    author: "Anaïs Mitchell",
+    book: "Hadestown",
+  },
 ];
 
 export { quotes };
