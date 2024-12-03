@@ -32,7 +32,7 @@ As a genre, slice of life isn't too far away from western sitcoms. _Friends_, fo
 
 The "real life" we get the most insight into in _A Sign of Affection_ is Yuki's. She makes for a very sweet protagonist, and her point of view as a deaf person is unique and interesting. The majority of the first volume of the manga is dedicated to introducing the reader to Yuki and her life.
 
-> It's a genuinely sweet, thoughtful story about communication, empathy, and learning to see the world through a totally different lense.
+<pullquote>It's a genuinely sweet, thoughtful story about communication, empathy, and learning to see the world through a totally different lense.</pullquote>
 
 The mangaka - that is, the writers of this manga - have put a lot of thought into how to properly convey how Yuki perceives the world. They speak in the afterword of the first volume about the research that they did into what it's like to live as a deaf person in Japan, including collaborating with a deaf woman fluent in Signed Japanese who advises them on the signs that Yuki uses in the story. Absolute accuracy isn't always the most important goal to achieve when writing a story, but when depicting a protagonist like Yuki, it's wonderful to know how much care has gone into creating her world and sharing it with readers.
 
@@ -44,7 +44,7 @@ What's even better is that the story plays off of these different methods of com
 
 For the most noteworthy example of this, let's skip ahead a bit to a moment late in volume 3 of the manga, when Yuki and Itsuomi are reunited after he spent some time abroad. Yuki reads Itsuomi's lips and believes that he asks "is it ok if I hug you?", but is left stunned when he instead leans in and kisses her. Her surprise is because in Japanese, the word for hug (ぎゅー, or "gyuu") and the word for kiss (ちゅー, or "chuu") both share the same "uu" sound. So Yuki misreads Itsuomi's question, which was actually "is it ok if I kiss you?"
 
-> The misinterpretation isn't a typical mix-up; it thoughtfully incorporates Yuki's experience with lip-reading.
+<pullquote>The misinterpretation isn't a typical mix-up; it thoughtfully incorporates Yuki's experience with lip-reading.</pullquote>
 
 This moment is a brilliant example of all of the manga's concepts coming together perfectly. Misunderstandings like this are such a staple trope of romance and slice of life stories, where the conflict needs to come from the relationships between the characters rather than some external malevolent force. But where sometimes these incidents of miscommunication can feel quite contrived, _A Sign of Affection_ uses Yuki's disability to create a moment that feels much more natural. The misinterpretation isn't a typical mix-up; it thoughtfully incorporates Yuki's experience with lip-reading, and the confusion that can arise when she tries to communicate with people. The resulting encounter feels very authentic, and is one of the sweetest moments in the series so far.
 

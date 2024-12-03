@@ -81,6 +81,16 @@ const quotes: Quote[] = [
     author: "Olivia Rose Darling",
     book: "Fear the Flames",
   },
+  {
+    text: "When you wonder something, doesn't that mean part of you wants to believe it?",
+    author: "V.E. Schwab",
+    book: "Vicious",
+  },
+  {
+    text: "To the world we dream about, and the one we live in now.",
+    author: "Anaïs Mitchell",
+    book: "Hadestown",
+  },
 ];
 
 export { quotes };

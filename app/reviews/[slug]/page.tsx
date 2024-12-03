@@ -4,7 +4,8 @@ import remarkGfm from "remark-gfm";
 import rehypeRaw from "rehype-raw";
 import Header from "../../components/Header/Header";
 import OverviewCard from "../../components/OverviewCard/OverviewCard";
-import Quote from "../../components/Quote/Quote";
+import ArticleQuote from "../../components/ArticleQuote/ArticleQuote";
+import PullQuote from "../../components/PullQuote/PullQuote";
 import { Review } from "../../../interfaces/Review";
 
 const generateStaticParams = async () => {
@@ -37,7 +38,8 @@ const ReviewPage = async ({ params }: { params: { slug: string } }) => {
           rehypePlugins={[rehypeRaw]}
           components={{
             // @ts-expect-error - quote is a custom HTML element
-            quote: Quote,
+            articlequote: ArticleQuote,
+            pullquote: PullQuote,
           }}
         >
           {review.content}
