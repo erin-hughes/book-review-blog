@@ -91,6 +91,36 @@ const quotes: Quote[] = [
     author: "Anaïs Mitchell",
     book: "Hadestown",
   },
+  {
+    text: "If they're going to tell stories about you, use it to your advantage.",
+    author: "R. F. Kuang",
+    book: "Babel",
+  },
+  {
+    text: "That's what translation is, I think. That's all speaking is. Listening to the other and trying to see past your own biases to glimpse what they're trying to say. Showing yourself to the world, and hoping someone else understands.",
+    author: "R. F. Kuang",
+    book: "Babel",
+  },
+  {
+    text: "Why, when her desire was the most natural thing in the world, was she afraid to look it in the eye?",
+    author: "Asako Yuzuki",
+    book: "Butter",
+  },
+  {
+    text: "In the ruins of artifice I finally have no time or recourse left but to say how I actually feel.",
+    author: "Pierce Brown",
+    book: "Red Rising",
+  },
+  {
+    text: "The things that we dwell on become the shape of our minds.",
+    author: "Brian Deer",
+    book: "The Doctor Who Fooled the World",
+  },
+  // {
+  //   text: "",
+  //   author: "",
+  //   book: "",
+  // },
 ];
 
 export { quotes };
