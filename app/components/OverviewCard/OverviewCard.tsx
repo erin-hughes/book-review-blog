@@ -50,15 +50,33 @@ const OverviewCard = ({
                   Rating:
                 </strong>
                 <div className="flex space-x-1">
-                  {[...Array(5)].map((_, i) => (
-                    <FaStar
-                      key={i}
-                      size={24}
-                      className={
-                        i < rating ? "text-rose-700" : "text-stone-700"
-                      }
-                    />
-                  ))}
+                  {[...Array(5)].map((_, i) => {
+                    if (i < Math.floor(rating)) {
+                      return (
+                        <FaStar key={i} size={24} className="text-rose-700" />
+                      );
+                    } else if (i === Math.floor(rating) && rating % 1 !== 0) {
+                      return (
+                        <div key={i} className="relative w-6 h-6">
+                          <FaStar
+                            size={24}
+                            className="text-stone-700 absolute"
+                          />
+                          <FaStar
+                            size={24}
+                            className="text-rose-700 absolute"
+                            style={{
+                              clipPath: "polygon(0 0, 50% 0, 50% 100%, 0 100%)",
+                            }}
+                          />
+                        </div>
+                      );
+                    }
+
+                    return (
+                      <FaStar key={i} size={24} className="text-stone-700" />
+                    );
+                  })}
                 </div>
               </div>
             </div>
