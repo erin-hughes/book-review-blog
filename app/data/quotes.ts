@@ -116,6 +116,26 @@ const quotes: Quote[] = [
     author: "Brian Deer",
     book: "The Doctor Who Fooled the World",
   },
+  {
+    text: "Everyone knows that nothing on earth excerpts such pressure on the human soul as a void.",
+    author: "Stefan Zweig",
+    book: "Chess",
+  },
+  {
+    text: "There is an intimacy to intensive study that even I find unsettling.",
+    author: "Olivie Blake",
+    book: "The Atlas Six",
+  },
+  {
+    text: `"You're so pale that colours beam through your cheeks," he told me once. "I can watch my words light up your face."`,
+    author: "Frances White",
+    book: "Voyage of the Damned",
+  },
+  {
+    text: "The downside of perfectionism is that you are so used to getting it right, you completely collapse when you get it wrong. And it will not be me who collapses today.",
+    author: "Taylor Jenkins Reid",
+    book: "Carrie Soto is Back",
+  },
   // {
   //   text: "",
   //   author: "",
