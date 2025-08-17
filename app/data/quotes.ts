@@ -136,6 +136,16 @@ const quotes: Quote[] = [
     author: "Taylor Jenkins Reid",
     book: "Carrie Soto is Back",
   },
+  {
+    text: "It isn't a sadness, but a joy, that we don't do the same things for the length of our lives.",
+    author: "Gabrielle Zevin",
+    book: "Tomorrow, and Tomorrow, and Tomorrow",
+  },
+  {
+    text: "Insist on your cup of stars; once they have you trapped into being like everyone else you will never see your cup of stars again.",
+    author: "Shirley Jackson",
+    book: "The Haunting of Hill House",
+  },
   // {
   //   text: "",
   //   author: "",
